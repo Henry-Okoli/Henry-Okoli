@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-You'll find a diverse collection of projects, contributions, and code samples that demonstrate my skills and expertise in software development and data Science. Feel free to explore the different repositories I have worked on. Each project showcases my passion and dedication to creating innovative solutions and pushing the boundaries of what is possible in the world of technology
+You'll find a diverse collection of projects, contributions, and code samples that demonstrate my skills and expertise in data Science. Feel free to explore the different repositories I have worked on. Each project showcases my passion and dedication to creating innovative solutions and pushing the boundaries of what is possible in the world of technology
 
 ## About Me
 I am an passionate individual looking to advance in the fields of data science and software development. With a passion for uncovering insights from data and a drive to build innovative software solutions, I am constantly learning and expanding my skills. I am proficient in languages such as Python, MySQL, and Java, and I am eager to collaborate on projects that combine data science and software development. If you have any opportunities or ideas, I would love to contribute and make a meaningful impact in these fields
